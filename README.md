@@ -8,3 +8,8 @@ Dota2 minigame dragon chess AI autoplay helper
 * start the minigame and make sure the dota2 window is not covered by other window
 * AI will play it.
   
+## How to use it (chinese 中文)
+* 打开 dota2，设置用窗口模式，1600x900分辨率
+* 从release下载zip文件，运行其中的 `run_win.cmd` 
+* 开始小游戏。注意不要让dota2窗口被遮蔽。
+* AI 会开始表演。
