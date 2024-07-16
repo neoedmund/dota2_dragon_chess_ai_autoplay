@@ -13,3 +13,5 @@ Dota2 minigame dragon chess AI autoplay helper
 * 从release下载zip文件，运行其中的 `run_win.cmd` 
 * 开始小游戏。注意不要让dota2窗口被遮蔽。
 * AI 会开始表演。
+
+[![Watch the video](https://img.youtube.com/vi/-MnfqQkg9HA/0.jpg)](https://youtu.be/-MnfqQkg9HA)
