@@ -8,12 +8,15 @@ Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小�
 * AI will play it.
   
 ## How to use it (chinese 中文)
-* 打开 dota2，设置用窗口模式，1600x900分辨率, 把窗口放在左上角。
-* 从release下载zip文件，运行其中的 `run_win.cmd` 
-* 开始小游戏。注意不要让dota2窗口被遮蔽。
-* AI 会开始表演。
+* 打开 dota2，设置用窗口模式，1600x900分辨率, 把dota2窗口放在左上角。
+* 下载安装包 zip文件，解压到任意目录,运行其中的 `run_win.cmd` 
+* 开始小游戏。注意不要让dota2窗口被遮挡。
+* AI 自动开始表演。
+* 如有问题请截图告知详情。
+
 
 [![Watch the video](https://img.youtube.com/vi/-MnfqQkg9HA/0.jpg)](https://youtu.be/-MnfqQkg9HA)
+录像是早期版本，目前实力已增强。
 
 
 ## 故事(The story)
