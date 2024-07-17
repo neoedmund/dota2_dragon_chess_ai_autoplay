@@ -21,7 +21,7 @@ Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小�
 * 大屏的话注意缩放比改成100%
 * 双屏的话dota放在第一个屏幕
 
-录像是早期版本，目前实力已增强。
+
 [![Watch the video](https://img.youtube.com/vi/-MnfqQkg9HA/0.jpg)](https://youtu.be/-MnfqQkg9HA)
 录像是早期版本，目前实力已增强。
 
