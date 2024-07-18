@@ -6,6 +6,11 @@ Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小�
 * unpack zip file download from release section and unpack and run the `run_win.cmd` in it
 * start the minigame and make sure the dota2 window is not covered by other window
 * AI will play it.
+
+### troubleshooting
+* Align your Dota2 window with the red-cross, just like the picture below.
+* If you use desktop scaling of Windows usually on some large screen, reset it to 100% for this tool to function.
+* If you use multi-screen, put Dota2 window on the first screen.
   
 ## How to use it (chinese 中文)
 
