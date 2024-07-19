@@ -11,6 +11,7 @@ Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小�
 * Align your Dota2 window with the red-cross, just like the picture below.
 * If you use desktop scaling of Windows usually on some large screen, reset it to 100% for this tool to function.
 * If you use multi-screen, put Dota2 window on the first screen.
+* dota2 render quality setting max
   
 ## How to use it (chinese 中文)
 
@@ -25,6 +26,7 @@ Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小�
 * 现在实时显示截图，如果框子没对准，可以微调dota的窗口位置
 * 大屏的话注意缩放比改成100%
 * 双屏的话dota放在第一个屏幕
+* 设置dota2画质最高
 
 按图校准:
 
