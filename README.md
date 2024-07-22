@@ -1,6 +1,8 @@
 # dota2_dragon_chess_ai_autoplay
 Dota2 minigame dragon chess AI autoplay helper (刀塔倾天之战第三幕小游戏神龙象棋AI自动辅助)
 
+AI get score in range of 60K~120K point.
+
 ## How to use it
 * open dota2 in windows mode with 1600x900, put window on left top.
 * unpack zip file download from release section and unpack and run the `run_win.cmd` in it
